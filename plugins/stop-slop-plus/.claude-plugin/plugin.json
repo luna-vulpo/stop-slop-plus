@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "stop-slop-plus",
+  "description": "Edit or audit prose (English and Polish) to remove AI tells while preserving the writer's voice, with a self-check eval loop.",
+  "version": "1.0.0",
+  "author": { "name": "Luna Vulpo" },
+  "homepage": "https://github.com/luna-vulpo/stop-slop-plus",
+  "repository": "https://github.com/luna-vulpo/stop-slop-plus",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "ai-slop", "human-voice", "polish", "claude-code"]
+}
