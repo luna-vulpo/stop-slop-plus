@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "dopytaj",
+  "description": "Przed rozwiązaniem Claude sprawdza, czy brakuje istotnych informacji, i zadaje najważniejsze pytania w numerowanej liście z propozycjami odpowiedzi.",
+  "version": "1.0.0",
+  "author": { "name": "Luna Vulpo" },
+  "homepage": "https://github.com/luna-vulpo/stop-slop-plus",
+  "repository": "https://github.com/luna-vulpo/stop-slop-plus",
+  "license": "MIT",
+  "keywords": ["prompting", "clarifying-questions", "hooks", "polish", "claude-code"]
+}
